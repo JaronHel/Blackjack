@@ -14,7 +14,7 @@ namespace Blackjack
         public static List<string> playerCards = new List<string>();
 
         static string[] ranks = { "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A" };
-        static string filePath = @"F:\Programming\C#\Blackjack\Blackjack\PlayerInfo.json";
+        static string filePath = @"F:\Workspace\GitHub\Blackjack\Blackjack\PlayerInfo.json";
 
         static bool betting;
         static bool gameRunning;
